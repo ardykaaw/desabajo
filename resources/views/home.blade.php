@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Berandal</title>
+    <title>Beranda</title>
     <!-- Favicon-->
     <link href="{{ asset('storage/sultra.png') }}" rel="icon" type="image/png">
     <!-- Font Awesome icons (free version)-->
@@ -275,7 +275,7 @@
         </video>
         <div class="content">
             <img src="{{ asset('storage/logo2.png') }}" width="150px" class="mb-5" alt="Logo Konawe">
-            <h1 class="masthead-heading text-uppercase mb-0">Selamat Datang</h1>
+            <h1 class="masthead-heading text-uppercase mb-0">Selamat Datang kontol</h1>
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>
                 <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
